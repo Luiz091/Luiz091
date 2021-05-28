@@ -2,7 +2,7 @@
 
 <h1 align="center">Luiz Paulo Alves</h1>
 
-<h3 align="center">Developer Frontend Jr | Programming Student
+<h3 align="center">Frontend Jr Developer | Programming Student
 
 
 ## My Skills :computer:
