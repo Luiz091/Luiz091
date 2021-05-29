@@ -1,8 +1,6 @@
+<h1 align="center">Luiz Alves</h1>
 
-
-<h1 align="center">Luiz Paulo Alves</h1>
-
-<h3 align="center">Frontend Jr Developer | Programming Student
+<h3 align="center">Developer Frontend Jr | Programming Student
 
 
 ## My Skills :computer:
@@ -17,7 +15,7 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"/></p>
 
 
-### Data Bases: 
+### Data Base: 
 
 <p><img alt="MySql" title="MySql" height="28px"
 src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"/> <img alt="MongoDB" title="MongoDB" height="28px"
@@ -29,9 +27,11 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 <p><img alt="React" title="React" height="28px"
 src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"/> <img alt="Vue" title="Vue" height="28px"
 src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"/> <img alt="Angular" title="Angular" height="28px"
-src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"/> <img alt="Node" title="Node" height="28px"
+src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"/><img alt="Laravel" title="Laravel" height="28px"
+src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png"/> <img alt="NodeJs" title="NodeJs" height="28px"
 src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"/> <img alt="JQuery" title="JQuery" height="28px"
-src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jquery/jquery.png"/></p>
+src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jquery/jquery.png"/> <img alt="Bootstrap" title="Bootstrap" height="28px"
+src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"/></p>
 
 ### Outros: 
 
@@ -41,5 +41,7 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png"/></p>
 
 <hr>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=luiz091&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&locale=pt-br)](https://github.com/anuraghazra/github-readme-stats)
 
 <p>-- Readme em desenvolvimento.
